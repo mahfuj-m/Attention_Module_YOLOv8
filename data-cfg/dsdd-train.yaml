@@ -1,0 +1,6 @@
+names:
+- vessel
+nc: 1
+path: Datasets/DSDD-Train/
+train: images/train
+val: images/test

@@ -1,0 +1,6 @@
+names:
+- vessel
+nc: 1
+path: Datasets/
+train: Mixed/Train/images/
+val: Mixed/Test/images/

@@ -1,0 +1,6 @@
+names:
+- vessel
+nc: 1
+path: Datasets/SAR-Ship/HV/
+train: None
+val: images/
