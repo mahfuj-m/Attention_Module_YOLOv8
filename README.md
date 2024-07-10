@@ -7,3 +7,5 @@ The preprocessing notebook folder contains a few notebooks used for preprocessin
 The data-cfg folder contains the training configuration for the dataset training setup. 
 
 The graph folder contains the notebooks used to generate graphs and images for the result section.  
+
+The colab-Notebook folder contains all the training files proposed in the methodology section. Since I have used Google Colab to train the models, a cell syncs the notebook with Google Drive. Those cells can be omitted for training in the local system.
